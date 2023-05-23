@@ -1,0 +1,11 @@
+clientes
+id, nome identidade, telefone, endereço
+
+vendas
+id, cliente_id, data,total
+
+venda_produtos
+id, venda_id, produto_id, quant, preco
+
+produtos
+id, nome, tipo, preco, quant
